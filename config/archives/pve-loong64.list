@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/pve-loong64.gpg.key.asc] http://pve.loongfans.cn/ stable main

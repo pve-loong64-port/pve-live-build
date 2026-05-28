@@ -1,0 +1,13 @@
+x11-xserver-utils
+spice-vdagent
+xinit
+xterm
+netsurf-gtk
+vim
+e2fsprogs
+zfsutils-linux
+btrfs-progs
+xfsprogs
+proxmox-first-boot
+proxmox-installer
+libpve-common-perl
