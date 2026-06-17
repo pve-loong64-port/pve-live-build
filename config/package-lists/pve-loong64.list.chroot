@@ -8,6 +8,9 @@ e2fsprogs
 zfsutils-linux
 btrfs-progs
 xfsprogs
+lvm2
 proxmox-first-boot
 proxmox-installer
 libpve-common-perl
+eject
+console-setup

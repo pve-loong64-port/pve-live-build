@@ -1,0 +1,13 @@
+pve-loong64-archive-keyring
+proxmox-kernel-7.0.6-2-pve
+libefiboot1t64
+libefivar1t64
+gettext-base
+proxmox-grub
+grub-efi-loong64-unsigned
+grub-common
+grub2-common
+grub-efi-loong64
+grub-efi-loong64-bin
+systemd-boot-tools
+systemd-boot-efi
